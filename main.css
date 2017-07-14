@@ -1,0 +1,89 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+
+}
+body {
+	background:url(http://fishki.net/picsw/092011/20/bonus/foto/001.jpg) no-repeat fixed; 
+    background-size: 100%;
+
+}
+
+
+.header{
+	height: 80px;
+	
+}
+.header p {
+	font-size:17px;
+}
+.header nav p a {
+	float: right;
+	display: inline;
+	padding: 10px;
+	margin-right: 20px;
+	text-decoration: none;
+	
+}
+.btn{
+	width: 70px;
+	border: 1px solid #1D7373;
+	border-radius: 4px;
+	color:  #1D7373;
+	padding: 7px;
+	margin-top: 17px;
+	text-align: center;
+}
+.btn:hover {
+	background-color:  #1D7373;
+	color: #5fc0ce;
+}
+ .logo { 
+ 
+	float: left;
+}
+.logo img{
+	height: 45%;
+	width: 45%;
+	border-radius: 15px;
+	margin-left: 30px;
+	margin-top: 6px;
+	border: 1px solid #1D7373;
+}   
+.jumbotron {
+height: 780px;
+}
+
+.jumbotron h1 {
+	position: relative;
+	text-align: center;
+	font-size: 96px;
+	line-height: 300px;
+	color: #5fc0ce;
+}
+.jumbotron p {
+	color: #041f29;
+	font-size: 48px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: -50px;
+	font-family: ; 
+}
+.footer {
+	height: 120px;
+	clear: both;
+}
+.footer h4{
+	float: right;
+	color: #1D7373;
+	padding-right: 30px;
+}
+.footer p a {
+	float: left;
+	color: #1D7373;
+	font-size: 24px;
+	text-decoration: none;
+	font-weight: bold;
+	padding-left: 30px;
+}
